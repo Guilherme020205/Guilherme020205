@@ -2,7 +2,7 @@
  
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=12&duration=10000&pause=1000&color=C3A000&width=435&lines=Desenvolvedor+FullStack" alt="Typing SVG" /></a>
 
-Meu nome é Guilherme Cardozo Seemann, tenho 20 anos e sou de Santa Catarina. Concluí o curso técnico em Desenvolvimento de Sistemas no SENAI e, atualmente, estou cursando o ensino superior em Análise e Desenvolvimento de Sistemas também no SENAI. Tenho grande interesse por tecnologia.
+Meu nome é Guilherme, tenho 20 anos e sou de Santa Catarina. Concluí o curso técnico em Desenvolvimento de Sistemas no SENAI e, atualmente, estou cursando o ensino superior em Análise e Desenvolvimento de Sistemas também no SENAI. Tenho grande interesse por tecnologia.
 
 ---
 ---
